@@ -1,3 +1,4 @@
+![logo](https://github.com/Officialsanjeev/Officialsanjeev/blob/main/Purple%20Modern%20Gaming%20Channel%20%20Banner%20Landscape.png)
 <h1 align="center">Hi 👋, I'm Sanjeev Singh</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
